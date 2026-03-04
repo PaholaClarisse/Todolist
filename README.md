@@ -10,4 +10,4 @@ projet realise pour apprendre les bases des **API REST** et de l'architecture **
 - Creation d'items (POST)
 - Lecture de la liste (GET)
 - Lecture d'un item par ID (GET)
-- Documentation automatique sur "/docs"
+- Documentation automatique sur "/docs"# Todolist
