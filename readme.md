@@ -21,8 +21,8 @@ Elle permet de créer, lire, modifier et supprimer des tâches, avec des fonctio
 
 ## Installation
 Cloner le projet :
-. git clone https://github.com/PaholaClarisse/todolist-fastapi.git
-. cd todolist-fastapi
+. git clone https://github.com/PaholaClarisse/Todolist.git
+. cd Todolist
 
 ## Créer un environnement virtuel :
 python -m venv venv
