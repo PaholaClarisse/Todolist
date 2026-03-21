@@ -106,6 +106,9 @@ def modifier_use_ID(task_title: str, new_task:Task):
            tasks[j] = new_task
     raise HTTPException(status_code=404, detail="title not found")
 
+@app.get("/count")
+async def count_task():
+    return {"total_task": 0}
             
 
 
